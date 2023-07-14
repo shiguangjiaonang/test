@@ -10,3 +10,4 @@ hello ling dang diyige git
 hello ling dang diyige git
 hello ling dang diyige git master test
 hello ling dang diyige git
+hello ling dang diyige git hot-fix test
